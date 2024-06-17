@@ -33,8 +33,8 @@ const Hero = () => {
             Hi, I&apos;m Andrei - a web developer based in Germany
           </p>
 
-          <a href="#about">
-            <MagicButton title="See my work" />
+          <a href="#about" className="flex justify-center">
+            <MagicButton title="See my work"/>
           </a>
         </div>
       </div>
