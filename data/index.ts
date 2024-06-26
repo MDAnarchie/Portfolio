@@ -81,7 +81,7 @@ export const navItems = [
     {
       id: 2,
       title: "CineMate - a movie tracker app",
-      des: "A SPA that allows users to search for movies, add them to their watchlist, and rate them. Built fully with React.",
+      des: "A SPA that allows users to search for movies, add them to their watchlist, and rate them.",
       img: "/p2.png",
       iconLists: ["/re.svg", "/tail.svg", "/node.svg"],
       link: "https://cinebuddy.netlify.app/",
@@ -89,18 +89,18 @@ export const navItems = [
     {
       id: 3,
       title: "Trending Blend",
-      des: "a Blog Type website based on my traveling experiences and interests in technologies. Built with HTML5 and CSS",
+      des: "a Blog Type website based on my traveling experiences and interests in technologies.",
       img: "/p3.png",
-      iconLists: ["/html.svg", "/css.svg"],
-      link: "s",
+      iconLists: ["/html.svg", "/css.svg", "/javascript.svg"],
+      link: "https://github.com/MDAnarchie/TrendingBlend",
     },
     {
       id: 4,
       title: "Neo-Berlin - a text-based adventure game",
-      des: "A text-based adventure game that allows users to explore a futuristic city and make decisions that impact the story. Built with Vanilla JS and Node.js.",
-      img: "/p4.svg",
+      des: "A text-based adventure game where decisions matter.",
+      img: "/p4.png",
       iconLists: ["/javascript.svg", "/node.svg"],
-      link: "s",
+      link: "https://github.com/AndreiMarasoiuDogarescu/Neo-Berlin",
     },
   ];
   
