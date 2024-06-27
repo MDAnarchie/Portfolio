@@ -6,9 +6,9 @@ import { companies } from "@/data";
 const Clients = () => {
   return (
     <div className="py-20" id="testimonials">
-      <h1 className="heading">
+      <h1 className="heading pb-10">
         Kind words from {` `}
-        <span className="text-purple"> satisfied clients</span>
+        <span className="text-purple"> satisfied partners</span>
       </h1>
       <div className="flex flex-col items-center max-lg:mt-10">
         <InfiniteMovingCards
