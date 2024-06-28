@@ -45,7 +45,7 @@ const Approach = () => {
           description="When everything looks good and you're happy with the site, I'll launch it for you. I'll also make sure it's optimized for search engines and mobile devices."
         >
           <CanvasRevealEffect
-            animationSpeed={3}
+            animationSpeed={5}
             containerClassName="bg-sky-600"
             colors={[[125, 211, 252]]}
           />
