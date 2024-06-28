@@ -178,7 +178,7 @@ export const navItems = [
       title: "DCI Tutor",
       desc: "Served as a tutor at my school, providing support to students who needed additional assistance to keep up with their lessons.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/tutor.svg",
+      thumbnail: "/exp3.svg",
     },
     {
       id:4,
