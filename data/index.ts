@@ -1,3 +1,5 @@
+import { url } from "inspector";
+
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
@@ -169,37 +171,37 @@ export const navItems = [
     {
       id: 2,
       title: "QA Analyst",
-      desc: "Tested and reviewed code to ensure the highest quality of the final product.",
-      className: "md:col-span-2", // change to md:col-span-2
+      desc: "Tested and reviewed code to ensure the highest quality of the final product was delivered.",
+      className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
       title: "DCI Tutor",
-      desc: "Served as a tutor at my school, providing support to students who needed additional assistance to keep up with their lessons.",
-      className: "md:col-span-2", // change to md:col-span-2
+      desc: "Served as a tutor, providing support to students in need of assistance.",
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
-      id:4,
+      id: 4,
       title: "Video Game Tester",
-      desc: "Tested video games to ensure they were free of bugs and glitches.",
-      className: "md:col-span-2", // change to md:col-span-2
+      desc: "Tested video games to ensure they were free of bugs and glitches.                      ",
+      className: "md:col-span-2",
       thumbnail: "/exp4.svg",
-    }
+    },
   ];
   
   export const socialMedia = [
     {
       id: 1,
       img: "/git.svg",
+      url: "https://github.com/AndreiMarasoiuDogarescu",
+      hoverColor: "#333",
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
+      url: "https://www.linkedin.com/in/andrei-marasoiu/",
+      hoverColor: "#1DA1F2",
     },
   ];
