@@ -109,9 +109,10 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Andrei was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "David Alex",
-      title: "Director of Blizzard Entertainment",
+        "Andrei was exceptionally professional, helpful, and dedicated during our collaboration. His strong work ethic and eagerness to follow directions made him a valuable partner. If you are looking for a web developer for your future projects, Andrei's commitment and skills will ensure outstanding results.",
+      name: "Marian Arsene",
+      title: "Senior QA Analyst at Ubisoft",
+      img: "/marian.png" 
     },
     {
       quote:
