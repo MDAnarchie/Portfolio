@@ -8,9 +8,10 @@ import { div } from "three/examples/jsm/nodes/Nodes.js";
 const Approach = () => {
   return (
     <section className="w-full py-20">
-      <h1 className="heading">
+      <h1 className="heading mb-4">
         My <span className="text-purple">approach</span>
       </h1>
+      <p className="mt-4 text-sm leading-[1.6] text-white-200 font-normal text-center">Hover over the cards for more  <span className="text-purple">info.</span></p>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
           title="Planning & Strategy"
