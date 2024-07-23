@@ -78,7 +78,7 @@ export const navItems = [
       des: "A full-stack app that allows users to check all the latest space news, launches, and community of space enthusiasts.",
       img: "/p1.png",
       iconLists: ["/re.svg", "/tail.svg", "/firebase.svg", "/firestore.svg"],
-      link: "s",
+      link: "https://github.com/E05-A/StarHub",
     },
     {
       id: 2,
